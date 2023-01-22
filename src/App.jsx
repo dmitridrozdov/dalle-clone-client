@@ -2,7 +2,7 @@ import React from 'react'
 
 const App = () => {
   return (
-    <h1 className='text3xl font-bold underline'>
+    <h1>
       openai is super great
     </h1>
   )
